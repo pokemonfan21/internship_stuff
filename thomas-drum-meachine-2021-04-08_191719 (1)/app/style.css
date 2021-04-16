@@ -1,0 +1,83 @@
+/* CSS files add styling rules to your content */
+
+
+body {
+  background-image: url("https://cdn.glitch.com/73626ac0-479e-4f6c-93ee-e5b8bcd9448e%2F3156482.jpg?v=1598890892963");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header h1 {
+  font-family: "Pacifico", cursive;
+  line-height: 1em;
+  font-weight: normal;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding: 0;
+  font-size: 40;
+  color: #5F50A5;
+}
+.strapline {
+  font-family: "Codystar", cursive;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-size: 25;
+  color: #ED4D6E; /*sick beats*/
+}
+
+h2,
+h3,
+p {
+  margin-left: 25%;
+  padding-top: 0.5%;
+  margin-right: 25%;
+}
+
+h2 {
+  text-align: center;
+}
+
+#sketch-holder {
+  width: 100%;
+  text-align: center;
+}
+
+canvas {
+  display: inline;
+}
+
+.instructions {
+  font-family: "Sulphur Point", sans-serif;
+  color: #5F50A5;
+
+  font-size: 15px;
+  font-weight: normal;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  background-color: rgba(275, 275, 275, 0.6);
+}
+.instructions br {
+  display: block;
+  line-height: 1px;
+}
+.footer p {
+  text-align: center;
+  color: ED4D6E;
+  font-family: "Geo", sans-serif;
+}
+
+.footer div {
+  text-align: center;
+  font-size: 10;
+  color: FFC31F;
+  font-family: "Geo", sans-serif;
+}
